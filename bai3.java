@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AreaPerimeter {
+public class bai3 {
     public static void main(String[] args) {
         double r;
         Scanner scanner = new Scanner(System.in);
